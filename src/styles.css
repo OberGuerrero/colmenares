@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.card {
+  margin-top: 100px;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+.btn-block {
+  margin-top: 10px;
+}
+

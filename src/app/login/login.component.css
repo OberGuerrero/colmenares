@@ -1,0 +1,22 @@
+.container
+{
+  background-color: #231F1E;
+}
+
+img
+{
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#logo
+{
+  height: 30%;
+  width: 30%;
+}
+
+label
+{
+  color: beige;
+}
