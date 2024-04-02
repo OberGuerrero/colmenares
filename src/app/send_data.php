@@ -4,7 +4,7 @@ $data = json_decode(file_get_contents("php://input"), true);
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "colmenares";
+$dbname = "abogados";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
